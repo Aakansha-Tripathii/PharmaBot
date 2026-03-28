@@ -99,13 +99,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 #### Don't forget to give the project a star! Thanks again!
 
-## License
-
-This project is licensed under the [Open Source Initiative (OSI)](https://opensource.org/) approved GNU General Public License v3.0 License - see the [LICENSE.txt](LICENSE.txt) file for details.<br>
-
-
-
-
 
 ## Acknowledgements
 
